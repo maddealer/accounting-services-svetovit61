@@ -1,0 +1,9 @@
+.inMaps > div {
+  position: static !important;
+  justify-content: center;
+  align-items: center;
+}
+.inMaps {
+  padding-left: 0;
+  padding-right: 0;
+}

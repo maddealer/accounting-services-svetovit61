@@ -1,0 +1,15 @@
+.navbar-brand {
+  font-style: italic;
+}
+.nav-custom {
+  padding: 0;
+}
+
+.div-navbar-custom {
+  border-bottom: 1px solid rgb(177, 177, 177);
+}
+
+li {
+  margin-left: 5px;
+  font-size: 1.5em;
+}
