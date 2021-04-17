@@ -30,7 +30,7 @@ class Home extends Component {
               <div className="container">
                 <div className="carousel-caption text-left">
                   <h1 className="carousel1">
-                    ! Добре дошли на сайта на
+                    !!! Добре дошли на сайта на
                     <span
                       style={{
                         color: "#00a7e1",
